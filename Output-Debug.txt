@@ -1,0 +1,60 @@
+﻿'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Users\Praneel\Documents\Visual Studio 2013\Projects\CompMethods3\ALLEGRO GAME DEVELOPMENT\AnimateSpriteSheetEg\Debug\AnimateSpriteSheetEg.exe'. Symbols loaded.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\allegro-5.0.10-monolith-md-debug.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcr120d.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.9600.17415_none_dad8722c5bcc2d8f\GdiPlus.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\comdlg32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcr110d.dll'. Symbols loaded.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.9600.17810_none_7c5b6194aa0716f1\comctl32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ddraw.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dciman32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d9.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\igdumdim32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvinit.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\nvinit.dll'
+The thread 0x243c has exited with code 0 (0x0).
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Program Files\WIDCOMM\Bluetooth Software\syswow64\BtMmHook.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\igdusc32.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WindowsCodecs.dll'. Cannot find or open the PDB file.
+'AnimateSpriteSheetEg.exe' (Win32): Loaded 'C:\Program Files (x86)\Internet Download Manager\idmmkb.dll'. Module was built without symbols.
+The thread 0x2318 has exited with code 0 (0x0).
+The thread 0x2344 has exited with code 0 (0x0).
+'AnimateSpriteSheetEg.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\igdusc32.dll'
+The thread 0x23d8 has exited with code 0 (0x0).
+The thread 0x21a8 has exited with code 0 (0x0).
+The thread 0x18dc has exited with code 0 (0x0).
+The thread 0x25c8 has exited with code 0 (0x0).
+The thread 0x2798 has exited with code 1 (0x1).
+'AnimateSpriteSheetEg.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\igdumdim32.dll'
+'AnimateSpriteSheetEg.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\d3d9.dll'
+The program '[8528] AnimateSpriteSheetEg.exe' has exited with code 0 (0x0).
